@@ -9,8 +9,8 @@
 # f2b-unban user jail
 # f2b-unban $1   $2
  
-echo example
-echo f2b-unban triplr sshd
+#echo example
+#echo f2b-unban triplr sshd
 
 i=$1
 jail=$2
